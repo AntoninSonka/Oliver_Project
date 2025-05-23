@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/home/antonin/Code/Projects/casinoProject/copyRepo.sh
+/home/antonin/oliver/Oliver_Project/copyRepo.sh
